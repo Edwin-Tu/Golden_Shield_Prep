@@ -41,3 +41,90 @@
 - 不要上傳敏感資訊、帳密、token、真實目標資料
 - 練習內容以合法平台與授權環境為主
 - writeup 應以學習紀錄為目的
+
+## 儲存庫骨架
+
+golden-shield-prep/
+├─ README.md
+├─ CONTRIBUTING.md
+├─ CODE_OF_CONDUCT.md
+├─ LICENSE
+├─ .gitignore
+├─ docs/
+│  ├─ roadmap.md
+│  ├─ meeting-notes/
+│  │  └─ README.md
+│  ├─ references/
+│  │  └─ useful-links.md
+│  └─ glossary.md
+├─ ctf/
+│  ├─ README.md
+│  ├─ picoctf/
+│  │  ├─ README.md
+│  │  ├─ web/
+│  │  │  └─ README.md
+│  │  ├─ crypto/
+│  │  │  └─ README.md
+│  │  ├─ reverse/
+│  │  │  └─ README.md
+│  │  ├─ forensics/
+│  │  │  └─ README.md
+│  │  ├─ binary/
+│  │  │  └─ README.md
+│  │  └─ templates/
+│  │     └─ writeup-template.md
+│  └─ other-ctf/
+│     └─ README.md
+├─ tools/
+│  ├─ README.md
+│  ├─ burpsuite/
+│  │  └─ burpsuite-basics.md
+│  ├─ wireshark/
+│  │  └─ wireshark-basics.md
+│  ├─ nmap/
+│  │  └─ nmap-basics.md
+│  ├─ gobuster/
+│  │  └─ gobuster-basics.md
+│  ├─ sqlmap/
+│  │  └─ sqlmap-basics.md
+│  ├─ john/
+│  │  └─ john-the-ripper-basics.md
+│  └─ metasploit/
+│     └─ metasploit-basics.md
+├─ knowledge/
+│  ├─ README.md
+│  ├─ web-security/
+│  │  ├─ xss.md
+│  │  ├─ sqli.md
+│  │  ├─ csrf.md
+│  │  └─ file-upload.md
+│  ├─ cryptography/
+│  │  ├─ encodings.md
+│  │  ├─ classical-ciphers.md
+│  │  └─ hash-and-salt.md
+│  ├─ reverse-engineering/
+│  │  ├─ strings-ghidra-basics.md
+│  │  └─ assembly-intro.md
+│  ├─ forensics/
+│  │  ├─ metadata.md
+│  │  ├─ pcap-basics.md
+│  │  └─ disk-image-basics.md
+│  └─ osint/
+│     └─ osint-basics.md
+├─ practice/
+│  ├─ labs/
+│  │  └─ README.md
+│  ├─ scripts/
+│  │  ├─ README.md
+│  │  └─ examples/
+│  │     └─ sample-parser.py
+│  └─ notes/
+│     └─ personal-template.md
+├─ team/
+│  ├─ members.md
+│  ├─ roles.md
+│  ├─ weekly-plan.md
+│  └─ progress-tracker.md
+└─ assets/
+   └─ images/
+      └─ README.md

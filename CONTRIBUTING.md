@@ -2,17 +2,6 @@
 
 歡迎一起協作整理資安學習內容。
 
-## 分支規範
-請使用以下命名方式：
-- `feature/add-picoctf-writeup`
-- `docs/update-nmap-notes`
-- `fix/correct-sqli-note`
-
-## Commit 訊息建議
-- `docs: add picoCTF web challenge writeup`
-- `feat: add burpsuite basic notes`
-- `fix: revise xss explanation`
-
 ## Pull Request 建議
 PR 內容請包含：
 1. 本次新增/修改的內容
